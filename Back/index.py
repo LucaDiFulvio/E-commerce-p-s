@@ -1,2 +1,1 @@
-console.log("puto el que lee")
-console.log("puto el que lo escribio")
+print("Hola mundo")
